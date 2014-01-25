@@ -1,0 +1,36 @@
+body {
+    background-color: LightBlue;
+    box-shadow: 0 0 0;
+}
+#enchilada {
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 2px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+#TH {
+border: 10px solid black;
+padding:10px;
+}
+
+.pad {
+margin-left: 10px;
+font-family: Georgia, Ariel;
+color: white;
+font-size: 1.25em;
+}
+
+h1,h2 {
+margin-left: 10px;
+}
+
+#container {
+text-align: center;
+padding:10px;
+font-family: Georgia, Ariel;
+color: white;
+font-size: 1.25em;
+}

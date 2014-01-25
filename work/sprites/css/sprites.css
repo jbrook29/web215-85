@@ -1,0 +1,44 @@
+#none {
+background-image: url("images/sprites.png");
+background: no-repeat;
+}
+
+#a {
+	background-image: url("images/sprites.png");
+	background: no-repeat;
+}
+
+#none li a.col  {
+	
+	background-position: 0px 0px;
+	width: 187px;
+	height: 250px;
+	display: inline-block;
+    }
+
+#none li a.is  {
+	background-position: -188px -1px ;
+	width: 245px;
+	height: 250px;
+	display: inline-block;
+}
+
+#none li a.sp  {
+	background-position: -436px -2px ;
+	width: 233px;
+	height: 250px;
+	display: inline-block;
+}
+
+#none li a.islam  {
+	background-position: -670px -2px ;
+	width: 375px;
+	height: 250px;
+	display: inline-block;
+}
+
+/* ------------------------------------------------------------------------------------------------------ */
+	
+
+
+
